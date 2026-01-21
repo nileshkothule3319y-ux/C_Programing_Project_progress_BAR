@@ -1,3 +1,6 @@
 # C programing Projects
-1.PROGRSS BAR 
- A simple C program that shows multiple tasks running at the same time using animated progress bars in the terminal. Each task moves forward at a random speed, using structures and ANSI escape codes for smooth screen updates.
+Bank Management System in C
+
+This project is a menu-driven Bank Management System implemented in C using structures and binary file handling. It allows users to create bank accounts, deposit and withdraw money, and check account balances. Account details are stored permanently in a binary file using fread, fwrite, and fseek, ensuring data persistence across program executions. The project demonstrates practical usage of C file handling, structures, and control flow, making it a solid beginner-to-intermediate level C project suitable for learning and resume building.
+
+
